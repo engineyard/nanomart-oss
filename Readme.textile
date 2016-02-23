@@ -1,0 +1,8 @@
+This code is terrible. 
+
+Clean it up.
+
+Install dependencies with @bundle@
+
+Run the tests with @bundle exec rspec nanomart_spec.rb@
+
